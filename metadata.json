@@ -1,0 +1,5 @@
+{
+  "name": "paty",
+  "description": "A digital clothing catalog for Paty Modas featuring category management, shopping cart, and WhatsApp checkout.",
+  "requestFramePermissions": []
+}
